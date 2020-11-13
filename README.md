@@ -1,19 +1,22 @@
 # Portfolio Website
 
 This repositary has my PORTFOLIO page's html and css files
+There are 2 pages on the website the default is the about me section
+The nav bar has a projects section which when clicked will take you to the second page
+The second page Projects has links of all the projects I have done
 
 ## HTML concepts used to Make this
 
 - Basic HTML Tags
+
   - p
   - ul and li
   - table
   - button
   - b
   - a
-  - heading tags (h1, h2)
-  - fieldset
-  - meta tags
+  - h1,h2,h3
+
 - Semantic UI Elements
   - nav
   - header
